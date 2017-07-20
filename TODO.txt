@@ -11,4 +11,6 @@ When complete, update to read:
     (EX: 2017.07.21: ...)
 --------------------------------------------------------------------------------
 
-TODO: Create 'hello_world' example.
+TODO: Create 'variables' example.
+
+2017.07.20: Create 'hello_world' example.
