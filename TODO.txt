@@ -11,6 +11,8 @@ When complete, update to read:
     (EX: 2017.07.21: ...)
 --------------------------------------------------------------------------------
 
+TODO: Update 'variables' to include multiple declarations example.
+
 TODO: Create 'for_loop' example.
 
 TODO: Create 'conditionals' example.
