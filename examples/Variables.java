@@ -12,10 +12,19 @@ class Variables {
         String varString;
         boolean varBoolean;
         
+        // Multiple variables CAN be declared on the same line
+        int a, b, c;
+        
         // Assign a variable using '=' operator with a values
         varInt = 42;
         varString = "a";
         varBoolean = true;
+        
+        // Multiple variables CANNOT be assigned on the same line
+        // ERROR: a, b, c = 1, 2, 3;
+        a = 1;
+        b = 2;
+        c = 3;
         
         // Use a variable
         System.out.println("The value of varInt is " + varInt);
@@ -25,5 +34,8 @@ class Variables {
         // Variables can be declared and assigned at the same time
         int varInt2 = varInt + 58;
         System.out.println("The value of varInt2 is " + varInt2);
+        
+        System.out.println("The value of a, b, and c are " +
+                            a + ", " + b + ", " + c);
     }
 }
