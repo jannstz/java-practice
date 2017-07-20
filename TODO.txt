@@ -11,6 +11,10 @@ When complete, update to read:
     (EX: 2017.07.21: ...)
 --------------------------------------------------------------------------------
 
-TODO: Create 'variables' example.
+TODO: Create 'for_loop' example.
+
+TODO: Create 'conditionals' example.
+
+2017.07.20: Create 'variables' example.
 
 2017.07.20: Create 'hello_world' example.
