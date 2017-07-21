@@ -11,6 +11,19 @@ When complete, update to read:
     (EX: 2017.07.21: ...)
 --------------------------------------------------------------------------------
 
+TODO: Create 'while' example.
+
+TODO: Create 'do-while' example.
+
+TODO: Create 'switch' example.
+
+TODO: Create 'exception' example.
+
+TODO: Create 'arrays' example.
+
+--------------------------------------------------------------------------------
+ARCHIVE POINT created 2017.07.21
+--------------------------------------------------------------------------------
 2017.07.21: Create 'for_loop' example.
 
 2017.07.20: Update 'variables' to include multiple declarations example.
