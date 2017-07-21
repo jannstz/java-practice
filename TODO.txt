@@ -11,9 +11,9 @@ When complete, update to read:
     (EX: 2017.07.21: ...)
 --------------------------------------------------------------------------------
 
-2017.07.20: Update 'variables' to include multiple declarations example.
+2017.07.21: Create 'for_loop' example.
 
-TODO: Create 'for_loop' example.
+2017.07.20: Update 'variables' to include multiple declarations example.
 
 2017.07.20: Create 'conditionals' example.
 
